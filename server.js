@@ -1,6 +1,7 @@
 //CRIANDO SERVDIOR EM NODE.
 // Ctrl + C para o servidor
 
+
 const express = require('express')
 const nunjucks = require('nunjucks')
 
@@ -14,6 +15,7 @@ server.set("view engine", "html")
 nunjucks.configure("views",{
     express:server
 })
+
 
 
 //configurando a rota principal.
