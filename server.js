@@ -15,6 +15,7 @@ nunjucks.configure("views",{
     express:server
 })
 
+
 //configurando a rota principal.
 //req - request (requisição) | res - response(resposta)
 
