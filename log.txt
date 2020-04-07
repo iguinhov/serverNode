@@ -18,3 +18,4 @@ COMMANDS GIT
 2 - git status (pra ver qual arquivo foi modificado)
 3 - git commit -m "descrição do que foi feito"
 4  - git push (para atualizar o repositorio)
+teste
